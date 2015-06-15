@@ -1,0 +1,11 @@
+{
+	"name": "AndSheCodes2",
+    "description": "mean stack app",
+    "version": "0.0.0",
+    "url": "https://github.com/tame3971/AndSheCodes2",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}

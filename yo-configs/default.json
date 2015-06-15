@@ -1,0 +1,24 @@
+{
+	"prompts":{
+		"optAppName":"AndSheCodes2",
+		"optAppTitle":"AndSheCodes2",
+		"optAppDescription":"mean stack app",
+		"optAppKeywords":[
+			
+		],
+		"optGithubName":"tame3971",
+		"optAuthorName":"Tomi Carr <andshecodes2@gmail.com>",
+		"optOperatingSystem":"mac",
+		"optServerPort":3000,
+		"optServerHttpPort":3002,
+		"optSocketPort":3001,
+		"optTestServerPort":3005,
+		"optTestServerHttpPort":3007,
+		"optTestSocketPort":3006,
+		"optTestDatabase":"andshecodes2",
+		"optNpmInstall":1,
+		"optBowerInstall":1,
+		"optSeleniumInstall":0,
+		"optGruntQ":1
+	}
+}

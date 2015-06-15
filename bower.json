@@ -1,0 +1,39 @@
+{
+  "name": "AndSheCodes2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tame3971/AndSheCodes2",
+  "authors": [
+    "Tomi Carr <andshecodes2@gmail.com>"
+  ],
+  "description": "mean stack app",
+  "keywords": [
+    
+  ],
+  "dependencies": {
+    "angular": "1.4.0",
+    "angular-animate": "1.4.0",
+    "angular-sanitize": "1.4.0",
+    "angular-touch": "1.4.0",
+    "angular-route": "1.4.0",
+    "angular-cookies": "1.4.0",
+	"angular-mocks": "1.4.0",
+    "lesshat": "latest",
+    "font-awesome": "latest",
+    "less-flexbox": "latest",
+    "momentjs": "latest",
+    "angular-string": "latest",
+    "angular-array": "latest",
+    "angular-forminput": "latest",
+    "angular-socket-io": "latest"
+  },
+  "license": "MIT",
+  "resolutions": {
+    "angular": "1.4.0",
+    "angular-animate": "1.4.0",
+    "angular-sanitize": "1.4.0",
+    "angular-touch": "1.4.0",
+    "angular-route": "1.4.0",
+    "angular-cookies": "1.4.0",
+	"angular-mocks": "1.4.0"
+  }
+}

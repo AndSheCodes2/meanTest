@@ -1,0 +1,37 @@
+{
+  "name": "angular-string",
+  "version": "1.0.1",
+  "authors": [
+    "Luke Madera <luke.madera@gmail.com>"
+  ],
+  "description": "AngularJS string service",
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "string",
+    "service",
+    "angular-string"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/jackrabbitsgroup/angular-string",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "47e44cd1f1a206dbd9c9dfe0109c8d06f006b9fb"
+  },
+  "_source": "git://github.com/jackrabbitsgroup/angular-string.git",
+  "_target": "*",
+  "_originalSource": "angular-string"
+}

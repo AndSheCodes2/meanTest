@@ -1,0 +1,43 @@
+{
+  "name": "angular-forminput",
+  "version": "1.1.6",
+  "authors": [
+    "Luke Madera <luke.madera@gmail.com>"
+  ],
+  "description": "AngularJS form input builder",
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "form",
+    "input",
+    "angular-forminput",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.2",
+    "angular-animate": ">=1.2.2",
+    "angular-sanitize": ">=1.2.2",
+    "angular-touch": ">=1.2.2",
+    "lesshat": "latest",
+    "less-flexbox": "latest"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/jackrabbitsgroup/angular-forminput",
+  "_release": "1.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.6",
+    "commit": "76d49981dd5ee5433c1d906f1c2c0bc166c4311a"
+  },
+  "_source": "git://github.com/jackrabbitsgroup/angular-forminput.git",
+  "_target": "*",
+  "_originalSource": "angular-forminput"
+}

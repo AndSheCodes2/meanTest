@@ -1,0 +1,32 @@
+{
+  "name": "less-flexbox",
+  "version": "1.0.2",
+  "authors": [
+    "Luke Madera <luke.madera@gmail.com>"
+  ],
+  "description": "Flexbox LESS mixins and classes for cross browser compatibility",
+  "keywords": [
+    "less",
+    "flexbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/jackrabbitsgroup/less-flexbox",
+  "_release": "1.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.2",
+    "commit": "905c5d78dbc370cc820ef395b0bc22369dea6d23"
+  },
+  "_source": "git://github.com/jackrabbitsgroup/less-flexbox.git",
+  "_target": "*",
+  "_originalSource": "less-flexbox"
+}
